@@ -1,4 +1,5 @@
-[Project_Presentation.pdf](https://github.com/Razvanepe/Predicting-Liquor-Sales-Profit-and-post-Pandemic-Business-Analytics/files/7131691/Project_Presentation.pdf)
+[Project_Presentation](https://github.com/Razvanepe/Predicting-Liquor-Sales-Profit-and-post-Pandemic-Business-Analytics/files/7131691/Project_Presentation.pdf)
+[Project Report](https://github.com/Razvanepe/Predicting-Liquor-Sales-Profit-and-post-Pandemic-Business-Analytics/blob/main/reports/Project_report.pdf)
 # Iowa_spirits_sales
 ![image](https://user-images.githubusercontent.com/67451490/133853149-30e6937b-a4eb-4297-9350-245cfd1e641a.png)
 ![image](https://user-images.githubusercontent.com/67451490/133853162-54afe83a-2869-44e0-a48b-913bc8209ff5.png)
